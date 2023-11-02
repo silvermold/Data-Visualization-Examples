@@ -6,6 +6,11 @@ Information comes in many different forms and each technology that was used to c
 As a data analyst it's my job to learn these different technologies so that I can provide the most efficient medium of insight that allows stakeholders to make the best decisions.
 
 Technologies Used:
-Python(Forum Research Grid, Sea Level Linear Regression),
-Tableau,
+
+Python(Forum Research Grid, Sea Level Linear Regression)
+
+Tableau
+
 PowerBI
+
+Google Sheets(Excel Viz)
